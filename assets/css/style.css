@@ -670,7 +670,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #148af9;
+  color: #45505b;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -822,7 +822,7 @@ section {
 }
 
 .services .iconbox-blue i {
-  color: #47aeff;
+  color: #45505b;
 }
 
 .services .iconbox-blue:hover .icon i {
@@ -830,7 +830,7 @@ section {
 }
 
 .services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+  fill: #45505b;
 }
 
 .services .iconbox-orange i {
@@ -1101,7 +1101,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #0678e3;
+  background: #ecdddd;
 }
 
 @keyframes animate-loading {
@@ -1161,7 +1161,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #45505b;
   color: #fff;
   text-decoration: none;
 }
